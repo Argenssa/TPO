@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TPO\\11lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\pagebase\\pagebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\pagebase\\pagebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\tests\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\tests\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\pages\\tirespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\pages\\tirespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\tests\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\tests\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\loger\\loger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\loger\\loger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\tests\\test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\tests\\test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\tests\\test4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\tests\\test4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\pages\\bazarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\pages\\bazarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|f:\\tpo\\11lab\\lb11\\drivermanager\\drivermaganer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D8E9C0-7EA3-4405-A6B6-744D99A95F58}|lb11\\lb11.csproj|solutionrelative:lb11\\drivermanager\\drivermaganer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test3.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\Tests\\Test3.cs",
+              "RelativeDocumentMoniker": "lb11\\Tests\\Test3.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\Tests\\Test3.cs*",
+              "RelativeToolTip": "lb11\\Tests\\Test3.cs*",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:40:41.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\Usings.cs",
+              "RelativeDocumentMoniker": "lb11\\Usings.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\Usings.cs",
+              "RelativeToolTip": "lb11\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:40:21.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DriverMaganer.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\DriverManager\\DriverMaganer.cs",
+              "RelativeDocumentMoniker": "lb11\\DriverManager\\DriverMaganer.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\DriverManager\\DriverMaganer.cs",
+              "RelativeToolTip": "lb11\\DriverManager\\DriverMaganer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:39:48.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loger.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\Loger\\Loger.cs",
+              "RelativeDocumentMoniker": "lb11\\Loger\\Loger.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\Loger\\Loger.cs",
+              "RelativeToolTip": "lb11\\Loger\\Loger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:39:43.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageBase.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\PageBase\\PageBase.cs",
+              "RelativeDocumentMoniker": "lb11\\PageBase\\PageBase.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\PageBase\\PageBase.cs",
+              "RelativeToolTip": "lb11\\PageBase\\PageBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:39:40.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TiresPage.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\Pages\\TiresPage.cs",
+              "RelativeDocumentMoniker": "lb11\\Pages\\TiresPage.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\Pages\\TiresPage.cs",
+              "RelativeToolTip": "lb11\\Pages\\TiresPage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:39:26.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\Pages\\MainPage.cs",
+              "RelativeDocumentMoniker": "lb11\\Pages\\MainPage.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\Pages\\MainPage.cs",
+              "RelativeToolTip": "lb11\\Pages\\MainPage.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAkwF4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:39:22.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test2.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\Tests\\Test2.cs",
+              "RelativeDocumentMoniker": "lb11\\Tests\\Test2.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\Tests\\Test2.cs",
+              "RelativeToolTip": "lb11\\Tests\\Test2.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:39:12.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "lb11\\Tests\\Test1.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\Tests\\Test1.cs",
+              "RelativeToolTip": "lb11\\Tests\\Test1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:39:01.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BazarPage.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\Pages\\BazarPage.cs",
+              "RelativeDocumentMoniker": "lb11\\Pages\\BazarPage.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\Pages\\BazarPage.cs",
+              "RelativeToolTip": "lb11\\Pages\\BazarPage.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:38:49.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test5.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\Tests\\Test5.cs",
+              "RelativeDocumentMoniker": "lb11\\Tests\\Test5.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\Tests\\Test5.cs",
+              "RelativeToolTip": "lb11\\Tests\\Test5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:38:49.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Test4.cs",
+              "DocumentMoniker": "F:\\TPO\\11lab\\lb11\\Tests\\Test4.cs",
+              "RelativeDocumentMoniker": "lb11\\Tests\\Test4.cs",
+              "ToolTip": "F:\\TPO\\11lab\\lb11\\Tests\\Test4.cs",
+              "RelativeToolTip": "lb11\\Tests\\Test4.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:38:49.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
